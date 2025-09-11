@@ -1,4 +1,4 @@
-# 🌌 ThinkLoom
+# ThinkLoom
 
 **Applied AI. Open Innovation. Future Loomed Together.**
 
